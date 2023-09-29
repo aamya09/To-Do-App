@@ -1,2 +1,2 @@
 # To-Do-App
-CRUD operation performed using Basic JavaScript.
+CRUD operation performed using JavaScript.
